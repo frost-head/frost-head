@@ -1,34 +1,30 @@
 # Hi, I'm  Ayush Sharma! 👋
 ## 🚀 About Me
 
-- 💻I'm a full stack developer. 
-- 🐍 I like to code in Python. 
-- 🕸️I also hold information regarding Computer Networking. 
+- #### 💻 I'm a full stack developer. 
+- #### 🐍 I like to code in Python. 
+- #### 🕸️ I also hold information regarding Computer Networking. 
 
 ## Miscellaneous
-- 👩‍💻 I'm currently working on a Expense Manager
+- #### 👩‍💻 I'm currently working on a Expense Manager
 
-- 🧠 I'm currently learning Block Chain and Computer Networking
+- #### 🧠 I'm currently learning Block Chain and Computer Networking
 
-- 👯‍♀️ I'm looking to collaborate on anything fun / interesting
+- #### 👯‍♀️ I'm looking to collaborate on anything fun / interesting
 
-- 📫 How to reach me ed.ayush2003@gmail.com
+- #### 📫 How to reach me ed.ayush2003@gmail.com
 
-- 😄 Pronouns Frost-Head
+- #### 😄 Pronouns Frost-Head
 
-- 📔 Preparing for CCNA
-
+- #### 📔 Preparing for CCNA
+<br>
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frost-head&show_icons=true&theme=gotham" alt="frost-head" />  
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost-head&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="frost-head" />
   <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-frost-head" />
 </div>
+<br>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=frost-head&theme=onestar&column=-1" alt="frost-head" />
-</a>
-</a>
-</p>
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -86,3 +82,10 @@
 <a href="https://scikit-learn.org/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" width="40" />
 </a>
+</p>
+<br>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=frost-head&theme=onestar&column=-1" alt="frost-head" />
+</a>
+</p>
