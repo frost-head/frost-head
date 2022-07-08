@@ -18,14 +18,15 @@
 
 - 📔 Preparing for CCNA
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=frost-head&show_icons=true&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="frost-head stats card" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frost-head&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="frost-head stats card" /></p>
-    
-<p align="left">
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frost-head&show_icons=true&theme=gotham" alt="frost-head" />  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost-head&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="frost-head" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-frost-head" />
+</div>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=frost-head&theme=dark&column=4" alt="frost-head" />
+<img src="https://github-profile-trophy.vercel.app/?username=frost-head&theme=onestar&column=-1" alt="frost-head" />
+</a>
 </a>
 </p>
 <a href="https://reactjs.org/" target="blank">
