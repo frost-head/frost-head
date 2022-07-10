@@ -24,6 +24,7 @@
   <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-frost-head" />
 </div>
 <br>
+<h3>My Skills :</h3>
 <p align="center">
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
@@ -83,9 +84,4 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" width="40" />
 </a>
 </p>
-<br>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=frost-head&theme=onestar&column=-1" alt="frost-head" />
-</a>
-</p>
+
