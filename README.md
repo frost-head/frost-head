@@ -24,9 +24,7 @@
 - <a href='https://instagram.com/frost_head'>Linked in</a>
 <br>
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frost-head&show_icons=true&theme=gotham" alt="frost-head" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost-head&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="frost-head" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-frost-head" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head" alt="streak-frost-head" />
 </div>
 <br>
 <h3>My Skills :</h3>
