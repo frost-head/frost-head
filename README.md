@@ -22,6 +22,7 @@
 - <a href='https://instagram.com/frost_head'>Instagram</a>
 - <a href='https://instagram.com/frost_head'>Web page</a>
 - <a href='https://instagram.com/frost_head'>Linked in</a>
+- <a href='https://www.youtube.com/@Frost-Head'>Youtube</a>
 <br>
 <div align="center">
   <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=frost-head" alt="streak-frost-head" />
