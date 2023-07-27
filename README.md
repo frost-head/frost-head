@@ -21,6 +21,8 @@ Let's connect and explore the exciting world of technology together. You can fin
 - [Instagram](https://instagram.com/frost_head)
 - [YouTube](https://www.youtube.com/channel/UCJCwFQT3KK4-K_08kIcnhDg)
 - [Website](https://frost-head.github.io)
+- [Twitter](https://twitter.com/Frost_Head)
+  
 
 ## ✨ Let's Innovate Together!
 Join me on this journey of innovation and technology. Let's build a future where possibilities are limitless, and together, we can shape a better tomorrow!
